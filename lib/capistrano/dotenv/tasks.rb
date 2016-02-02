@@ -1,3 +1,4 @@
+require "capistrano"
 require "capistrano/dotenv/version"
 require "capistrano/dotenv/config"
 
